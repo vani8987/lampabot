@@ -1,0 +1,180 @@
+@media screen and (max-width: 1360px) {
+    /* Основной экран */
+
+    .header_btn{
+        display: none;
+    }
+
+    /* Меню под main */
+    
+    .menu{
+        height: 167px;
+    }
+    
+    .menu_p{
+        display: block; 
+        padding: 0px;
+        left: 20px;
+        line-height: 25px;
+    }
+
+    .vertical_line{
+        border: none;
+        border-bottom: 1px solid #777777;
+        width: 155px;
+        padding-top: 2px;
+    }
+
+
+    /* Почему вы теряете клиентов */
+    
+    .flex_block_Why_are_you_losing_customers_description{
+        display: flex;
+        justify-content: center;
+    }
+
+    .inline_Why_are_you_losing_customers_description{
+        display: block;
+        padding-top: 80px;
+    }
+
+    .background-color_Why_are_you_losing_customers{
+        height: 1400px;
+    }   
+
+    .TwoBackground_div_AI_Why_are_you_losing_customers{
+        padding-top: 100px;
+    }
+
+    .background_div_messanger_Why_are_you_losing_customers{
+        width: 1060px;
+        width: 100%;
+    }
+
+    .h2_AI_Why_are_you_losing_customers{
+        text-align: end;
+        padding-right: 80px;
+    }
+
+    .ul_AI_Why_are_you_losing_customers{
+        text-align: end;
+        padding-left: 120px;
+    }
+
+    .ul_ul_AI_Why_are_you_losing_customers_purple_div{
+        text-align: end;
+        padding-right: 65px;
+    }
+
+    /* Этапы работы */
+
+    .acquaintanceDescription{
+        position: relative;
+        right: 370px;
+    }
+
+    .one_point{
+        display: none;
+    }
+
+    .one_dottedLineHorizontal{
+        display: none;
+    }
+
+    .one_VerticalLine{
+        height: 100px;
+        position: relative;
+        top: 100px;
+    }
+
+    .two_point{
+        display: none;
+    }
+
+    .two_dottedLineHorizontal{
+        display: none;
+    }
+
+    .DemoDescription{
+        position: relative;
+        left: 10px;
+        top: 100px;
+    }
+
+    .two_VerticalLine{
+        height: 100px;
+        position: relative;
+        top: 100px;
+    }
+
+    .three_point{
+        display: none;
+    }
+
+    .three_dottedLineHorizontal{
+        display: none;
+    }
+
+    .IntegrationDescription{
+        position: relative;
+        left: 10px;
+        top: 100px;
+    }
+
+    .three_VerticalLine{
+        height: 100px;
+        position: relative;
+        top: 100px
+    }
+
+    .four_point{
+        display: none;
+    }
+
+    .four_dottedLineHorizontal{
+        display: none;
+    }
+
+    .DebuggingAndSupporDescription{
+        position: relative;
+        left: 10px;
+        top: 100px;
+    }
+    
+    .btn_divStagesOfWork{
+        position: relative;
+        top: 190px;
+    }
+    
+    /* Наш подход */
+
+    .MainOurApproach{
+        height: 1150px;
+    }
+
+    .ImgOurApproach{
+        width: 650px;
+        position: relative;
+        top: 100px;
+        right: 340px;
+    }
+
+    .divBtnOurApproach{
+        position: relative;
+        top: 650px;
+        left: 630px;
+    }
+
+    .POurApproach{
+        position: relative;
+        left: 350px;
+        bottom: 100px;
+        text-align: center;
+    }
+
+    .TwoPOurApproach{
+        position: relative;
+        left: 350px;
+        text-align: center;
+    }
+}   
