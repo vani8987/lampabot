@@ -1157,3 +1157,8 @@ body::-webkit-scrollbar-thumb {
     color: rgba(2, 2, 2, 0.836);
 }
 
+.hide{
+    display: block;
+
+}
+
